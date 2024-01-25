@@ -1,12 +1,60 @@
 {
     "employees": [
-      {
-        "id": 1,
-        "first_name": "Gertrudis",
-        "last_name":" Tatterton",       
-        "email": "gtatterton0@ehow.com",
-        "department":"Marketing",
-        "salary":50000
-      }
+        {
+            "first_name": "Thirumalai",
+            "last_name": "E",
+            "email": "sureshganga12007@gmail.com",
+            "department": "Marketing",
+            "salary": 644645,
+            "id": 3
+        },
+        {
+            "first_name": "Thirumalai",
+            "last_name": "E",
+            "email": "sureshganga12007@gmail.com",
+            "department": "Marketing",
+            "salary": 100000,
+            "id": 2
+        },
+        {
+            "first_name": "Thirumalai",
+            "last_name": "E",
+            "email": "sureshganga12007@gmail.com",
+            "department": "Operations",
+            "salary": 56757,
+            "id": 4
+        },
+        {
+            "first_name": "Thirumalai",
+            "last_name": "E",
+            "email": "sureshganga12007@gmail.com",
+            "department": "Marketing",
+            "salary": 56757,
+            "id": 5
+        },
+        {
+            "first_name": "Thirumalai",
+            "last_name": "E",
+            "email": "sureshganga12007@gmail.com",
+            "department": "Operations",
+            "salary": 56757,
+            "id": 6
+        },
+        {
+            "first_name": "Thirumalai",
+            "last_name": "E",
+            "email": "sureshganga12007@gmail.com",
+            "department": "Marketing",
+            "salary": 56757,
+            "id": 7
+        },
+        {
+            "id": 1,
+            "first_name": "Gertrudis",
+            "last_name": " Tatterton",
+            "email": "gtatterton0@ehow.com",
+            "department": "Marketing",
+            "salary": 50000
+        }
     ]
   }
